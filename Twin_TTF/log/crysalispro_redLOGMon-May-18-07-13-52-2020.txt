@@ -1,0 +1,19 @@
+Your current setup file is: C:\Users\Joseph.Ferrara\Data\SMX-Training\Twin_TTF\ET_TCNB_RT_02272014_new.par
+ 
+Goniometer type: KM4 (km4gonio.xdll)
+? CAN'T OPEN FILE C:\Users\Joseph.Ferrara\Data\SMX-Training\Twin_TTF\ET_TCNB_RT_02272014_new.ccd (pReadChipCharacteristicsWAllocWFIL)
+************************************************** WARNING: **************************************************
+StructureExplorer program is not installed in the system or is not associated with current version of CryslisPro
+Install the StructureExplorer program (minimum version 2.4.0) and associate with the CryslisPro
+by choosing directory path for StructureExplorer in RED Program Options in Programs tab.
+**************************************************************************************************************
+*****************************************************************************************************************************
+You have installed AutoChem 4 or higher, but you have no valid licence file or digest data.
+For '64bit CAP and AC4' you require a 64bit licence checker to be installed (c:\Program Files\Olex2-1.2-ac3\ac4util-x64.dll) - reinstall AC4 with all CAP instances shutdown!
+*****************************************************************************************************************************
+System 'CLOSE MESSAGE' intercepted at Mon May 18 07:14:16 2020
+WD P/CAL INFO: C:\Users\Joseph.Ferrara\Data\SMX-Training\Twin_TTF\ET_TCNB_RT_02272014_new_cracker.par written
+ 
+Instrument model: dd: 51.47, x0: 490.45, y0: 529.73, beam: -0.00, o0: 89.97, t0: 0.08, k0: 0.00
+ 
+Writing tabbin file: "C:\Users\Joseph.Ferrara\Data\SMX-Training\Twin_TTF\ET_TCNB_RT_02272014_new"
